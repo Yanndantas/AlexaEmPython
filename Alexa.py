@@ -5,6 +5,7 @@ import speech_recognition as sr
 import pyttsx3
 # pip install speechrecognition
 # pip install pyaudio
+# pip install pyttsx3
 
 
 # Variavel 'reconhecedor' que reconhece sua voz
